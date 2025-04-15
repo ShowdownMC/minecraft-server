@@ -1,6 +1,6 @@
 package ents
 
-import "github.com/golangmc/minecraft-server/apis/game"
+import "github.com/ShowdownMC/minecraft-server/apis/game"
 
 type Player interface {
 	EntityLiving

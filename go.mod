@@ -1,4 +1,4 @@
-module github.com/golangmc/minecraft-server
+module github.com/ShowdownMC/minecraft-server
 
 go 1.13
 

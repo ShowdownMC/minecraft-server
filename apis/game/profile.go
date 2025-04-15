@@ -1,6 +1,6 @@
 package game
 
-import "github.com/golangmc/minecraft-server/apis/uuid"
+import "github.com/ShowdownMC/minecraft-server/apis/uuid"
 
 type Profile struct {
 	UUID uuid.UUID

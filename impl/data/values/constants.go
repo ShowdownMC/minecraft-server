@@ -3,7 +3,7 @@ package values
 import (
 	"encoding/binary"
 
-	"github.com/golangmc/minecraft-server/apis/base"
+	"github.com/ShowdownMC/minecraft-server/apis/base"
 )
 
 const (

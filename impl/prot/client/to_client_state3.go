@@ -1,17 +1,17 @@
 package client
 
 import (
-	"github.com/golangmc/minecraft-server/apis/buff"
-	"github.com/golangmc/minecraft-server/apis/data"
-	"github.com/golangmc/minecraft-server/apis/data/msgs"
-	"github.com/golangmc/minecraft-server/apis/ents"
-	"github.com/golangmc/minecraft-server/apis/game"
-	"github.com/golangmc/minecraft-server/apis/game/level"
-	"github.com/golangmc/minecraft-server/impl/base"
-	"github.com/golangmc/minecraft-server/impl/data/client"
-	"github.com/golangmc/minecraft-server/impl/data/plugin"
+	"github.com/ShowdownMC/minecraft-server/apis/buff"
+	"github.com/ShowdownMC/minecraft-server/apis/data"
+	"github.com/ShowdownMC/minecraft-server/apis/data/msgs"
+	"github.com/ShowdownMC/minecraft-server/apis/ents"
+	"github.com/ShowdownMC/minecraft-server/apis/game"
+	"github.com/ShowdownMC/minecraft-server/apis/game/level"
+	"github.com/ShowdownMC/minecraft-server/impl/base"
+	"github.com/ShowdownMC/minecraft-server/impl/data/client"
+	"github.com/ShowdownMC/minecraft-server/impl/data/plugin"
 
-	apis_conn "github.com/golangmc/minecraft-server/impl/conn"
+	apis_conn "github.com/ShowdownMC/minecraft-server/impl/conn"
 )
 
 type PacketOChatMessage struct {

@@ -1,9 +1,9 @@
 package buff
 
 import (
-	"github.com/golangmc/minecraft-server/apis/data"
-	"github.com/golangmc/minecraft-server/apis/data/tags"
-	"github.com/golangmc/minecraft-server/apis/uuid"
+	"github.com/ShowdownMC/minecraft-server/apis/data"
+	"github.com/ShowdownMC/minecraft-server/apis/data/tags"
+	"github.com/ShowdownMC/minecraft-server/apis/uuid"
 )
 
 type Buffer interface {

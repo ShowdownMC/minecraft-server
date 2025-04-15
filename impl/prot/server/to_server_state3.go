@@ -1,12 +1,12 @@
 package server
 
 import (
-	"github.com/golangmc/minecraft-server/apis/buff"
-	"github.com/golangmc/minecraft-server/apis/data"
-	"github.com/golangmc/minecraft-server/apis/game"
-	"github.com/golangmc/minecraft-server/impl/base"
-	"github.com/golangmc/minecraft-server/impl/data/client"
-	"github.com/golangmc/minecraft-server/impl/data/plugin"
+	"github.com/ShowdownMC/minecraft-server/apis/buff"
+	"github.com/ShowdownMC/minecraft-server/apis/data"
+	"github.com/ShowdownMC/minecraft-server/apis/game"
+	"github.com/ShowdownMC/minecraft-server/impl/base"
+	"github.com/ShowdownMC/minecraft-server/impl/data/client"
+	"github.com/ShowdownMC/minecraft-server/impl/data/plugin"
 )
 
 type PacketIKeepAlive struct {

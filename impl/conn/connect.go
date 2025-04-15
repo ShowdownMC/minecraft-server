@@ -8,9 +8,9 @@ import (
 	"io"
 	"net"
 
-	"github.com/golangmc/minecraft-server/apis/rand"
-	"github.com/golangmc/minecraft-server/impl/base"
-	"github.com/golangmc/minecraft-server/impl/conn/crypto"
+	"github.com/ShowdownMC/minecraft-server/apis/rand"
+	"github.com/ShowdownMC/minecraft-server/impl/base"
+	"github.com/ShowdownMC/minecraft-server/impl/conn/crypto"
 )
 
 type connection struct {

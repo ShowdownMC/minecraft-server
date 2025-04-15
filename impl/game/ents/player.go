@@ -1,14 +1,14 @@
 package ents
 
 import (
-	"github.com/golangmc/minecraft-server/apis/data/msgs"
-	"github.com/golangmc/minecraft-server/apis/ents"
-	"github.com/golangmc/minecraft-server/apis/game"
+	"github.com/ShowdownMC/minecraft-server/apis/data/msgs"
+	"github.com/ShowdownMC/minecraft-server/apis/ents"
+	"github.com/ShowdownMC/minecraft-server/apis/game"
 
-	"github.com/golangmc/minecraft-server/impl/prot/client"
+	"github.com/ShowdownMC/minecraft-server/impl/prot/client"
 
-	apis_base "github.com/golangmc/minecraft-server/apis/base"
-	impl_base "github.com/golangmc/minecraft-server/impl/base"
+	apis_base "github.com/ShowdownMC/minecraft-server/apis/base"
+	impl_base "github.com/ShowdownMC/minecraft-server/impl/base"
 )
 
 type player struct {

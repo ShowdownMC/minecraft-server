@@ -1,12 +1,12 @@
 package prot
 
 import (
-	"github.com/golangmc/minecraft-server/apis/logs"
-	"github.com/golangmc/minecraft-server/apis/task"
-	"github.com/golangmc/minecraft-server/apis/util"
-	"github.com/golangmc/minecraft-server/impl/base"
-	"github.com/golangmc/minecraft-server/impl/game/mode"
-	"github.com/golangmc/minecraft-server/impl/prot/server"
+	"github.com/ShowdownMC/minecraft-server/apis/logs"
+	"github.com/ShowdownMC/minecraft-server/apis/task"
+	"github.com/ShowdownMC/minecraft-server/apis/util"
+	"github.com/ShowdownMC/minecraft-server/impl/base"
+	"github.com/ShowdownMC/minecraft-server/impl/game/mode"
+	"github.com/ShowdownMC/minecraft-server/impl/prot/server"
 )
 
 type packets struct {

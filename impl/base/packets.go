@@ -3,8 +3,8 @@ package base
 import (
 	"fmt"
 
-	"github.com/golangmc/minecraft-server/apis/buff"
-	"github.com/golangmc/minecraft-server/apis/util"
+	"github.com/ShowdownMC/minecraft-server/apis/buff"
+	"github.com/ShowdownMC/minecraft-server/apis/util"
 )
 
 type PacketState int

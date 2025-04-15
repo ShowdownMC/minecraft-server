@@ -1,6 +1,6 @@
 package ents
 
-import "github.com/golangmc/minecraft-server/apis/base"
+import "github.com/ShowdownMC/minecraft-server/apis/base"
 
 type Entity interface {
 	Sender
